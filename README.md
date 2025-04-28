@@ -2,7 +2,7 @@
 
 Source code of the defination of the market and the agent for the paper **"Deep Reinforcement Learning in Labor Market Simulations"**.
 
-The paper can be cited with the following bibtex entry:
+The [paper](https://ieeexplore.ieee.org/document/10975741) can be cited with the following bibtex entry:
 
 ```
 @INPROCEEDINGS{chen2025deep,
